@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrewKroeger
-- 👀 I’m interested in cybersecurity and embedded software design 
-- 🌱 I’m currently learning Security+ concepts and C 
+- 👀 I’m interested in A lot
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me KroegerDrew@gmail.com
 
