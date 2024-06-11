@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrewKroeger
 - 👀 I’m interested in A lot
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studying CompTIA Security+ - SYO-701
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me KroegerDrew@gmail.com
 
